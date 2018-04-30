@@ -12,9 +12,25 @@
 		554FB225208E7BC600935C7C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 554FB223208E7BC600935C7C /* Main.storyboard */; };
 		554FB227208E7BC600935C7C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 554FB226208E7BC600935C7C /* Assets.xcassets */; };
 		554FB22A208E7BC600935C7C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 554FB228208E7BC600935C7C /* LaunchScreen.storyboard */; };
+		554FB236208E87C700935C7C /* GearVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 554FB235208E87C700935C7C /* GearVC.swift */; };
+		554FB238208E8F6F00935C7C /* MySkiJournalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 554FB237208E8F6F00935C7C /* MySkiJournalViewController.swift */; };
+		55666F95209642F400CA4391 /* MountainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55666F94209642F400CA4391 /* MountainViewController.swift */; };
+		55666F972096477A00CA4391 /* MoutainDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55666F962096477A00CA4391 /* MoutainDetailViewController.swift */; };
+		55666F992096751C00CA4391 /* BootsDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55666F982096751C00CA4391 /* BootsDetailViewController.swift */; };
+		55666F9B2096830300CA4391 /* EverythingElseDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55666F9A2096830300CA4391 /* EverythingElseDetailViewController.swift */; };
+		55666F9D2096DAB200CA4391 /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55666F9C2096DAB200CA4391 /* WeatherViewController.swift */; };
+		558A43E8208FD6D900B0AD13 /* SkiDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 558A43E7208FD6D900B0AD13 /* SkiDetailViewController.swift */; };
+		55D5C72F208E9408000F7B98 /* SkisViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55D5C72E208E9408000F7B98 /* SkisViewController.swift */; };
+		55D5C731208E9459000F7B98 /* BootsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55D5C730208E9459000F7B98 /* BootsViewController.swift */; };
+		55D5C733208E9472000F7B98 /* EverythingElseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55D5C732208E9472000F7B98 /* EverythingElseViewController.swift */; };
+		55D5C735208E9571000F7B98 /* MyPowderDaysViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55D5C734208E9571000F7B98 /* MyPowderDaysViewController.swift */; };
+		55D5C737208E958D000F7B98 /* FutureSkiTripsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55D5C736208E958D000F7B98 /* FutureSkiTripsViewController.swift */; };
+		55EFD8222096ECA9003629CF /* MyPowderDaysDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55EFD8212096ECA9003629CF /* MyPowderDaysDetailViewController.swift */; };
+		82739A9DE94929CA0A373934 /* Pods_Ski_HQ.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 67168B149A747CA644F86417 /* Pods_Ski_HQ.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		45423DC979C27B352A9B2D3C /* Pods-Ski HQ.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ski HQ.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Ski HQ/Pods-Ski HQ.debug.xcconfig"; sourceTree = "<group>"; };
 		554FB21C208E7BC600935C7C /* Ski HQ.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ski HQ.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		554FB21F208E7BC600935C7C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		554FB221208E7BC600935C7C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +38,22 @@
 		554FB226208E7BC600935C7C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		554FB229208E7BC600935C7C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		554FB22B208E7BC600935C7C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		554FB235208E87C700935C7C /* GearVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GearVC.swift; sourceTree = "<group>"; };
+		554FB237208E8F6F00935C7C /* MySkiJournalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySkiJournalViewController.swift; sourceTree = "<group>"; };
+		55666F94209642F400CA4391 /* MountainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MountainViewController.swift; sourceTree = "<group>"; };
+		55666F962096477A00CA4391 /* MoutainDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoutainDetailViewController.swift; sourceTree = "<group>"; };
+		55666F982096751C00CA4391 /* BootsDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BootsDetailViewController.swift; sourceTree = "<group>"; };
+		55666F9A2096830300CA4391 /* EverythingElseDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EverythingElseDetailViewController.swift; sourceTree = "<group>"; };
+		55666F9C2096DAB200CA4391 /* WeatherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
+		558A43E7208FD6D900B0AD13 /* SkiDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkiDetailViewController.swift; sourceTree = "<group>"; };
+		55D5C72E208E9408000F7B98 /* SkisViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkisViewController.swift; sourceTree = "<group>"; };
+		55D5C730208E9459000F7B98 /* BootsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BootsViewController.swift; sourceTree = "<group>"; };
+		55D5C732208E9472000F7B98 /* EverythingElseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EverythingElseViewController.swift; sourceTree = "<group>"; };
+		55D5C734208E9571000F7B98 /* MyPowderDaysViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPowderDaysViewController.swift; sourceTree = "<group>"; };
+		55D5C736208E958D000F7B98 /* FutureSkiTripsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FutureSkiTripsViewController.swift; sourceTree = "<group>"; };
+		55EFD8212096ECA9003629CF /* MyPowderDaysDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPowderDaysDetailViewController.swift; sourceTree = "<group>"; };
+		67168B149A747CA644F86417 /* Pods_Ski_HQ.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Ski_HQ.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		71B0822AF4677507A51F713B /* Pods-Ski HQ.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ski HQ.release.xcconfig"; path = "Pods/Target Support Files/Pods-Ski HQ/Pods-Ski HQ.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +61,29 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82739A9DE94929CA0A373934 /* Pods_Ski_HQ.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		53463E5BAB25A528ED2E175C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				45423DC979C27B352A9B2D3C /* Pods-Ski HQ.debug.xcconfig */,
+				71B0822AF4677507A51F713B /* Pods-Ski HQ.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		554FB213208E7BC600935C7C = {
 			isa = PBXGroup;
 			children = (
 				554FB21E208E7BC600935C7C /* Ski HQ */,
 				554FB21D208E7BC600935C7C /* Products */,
+				53463E5BAB25A528ED2E175C /* Pods */,
+				FF46C8DBA92D874DB31EA6C4 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,13 +99,35 @@
 			isa = PBXGroup;
 			children = (
 				554FB21F208E7BC600935C7C /* AppDelegate.swift */,
+				554FB235208E87C700935C7C /* GearVC.swift */,
+				554FB237208E8F6F00935C7C /* MySkiJournalViewController.swift */,
+				55D5C72E208E9408000F7B98 /* SkisViewController.swift */,
+				558A43E7208FD6D900B0AD13 /* SkiDetailViewController.swift */,
+				55D5C730208E9459000F7B98 /* BootsViewController.swift */,
+				55666F982096751C00CA4391 /* BootsDetailViewController.swift */,
+				55D5C732208E9472000F7B98 /* EverythingElseViewController.swift */,
+				55EFD8212096ECA9003629CF /* MyPowderDaysDetailViewController.swift */,
+				55666F9A2096830300CA4391 /* EverythingElseDetailViewController.swift */,
+				55D5C734208E9571000F7B98 /* MyPowderDaysViewController.swift */,
+				55D5C736208E958D000F7B98 /* FutureSkiTripsViewController.swift */,
 				554FB221208E7BC600935C7C /* ViewController.swift */,
 				554FB223208E7BC600935C7C /* Main.storyboard */,
+				55666F9C2096DAB200CA4391 /* WeatherViewController.swift */,
+				55666F962096477A00CA4391 /* MoutainDetailViewController.swift */,
+				55666F94209642F400CA4391 /* MountainViewController.swift */,
 				554FB226208E7BC600935C7C /* Assets.xcassets */,
 				554FB228208E7BC600935C7C /* LaunchScreen.storyboard */,
 				554FB22B208E7BC600935C7C /* Info.plist */,
 			);
 			path = "Ski HQ";
+			sourceTree = "<group>";
+		};
+		FF46C8DBA92D874DB31EA6C4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				67168B149A747CA644F86417 /* Pods_Ski_HQ.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +137,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 554FB22E208E7BC600935C7C /* Build configuration list for PBXNativeTarget "Ski HQ" */;
 			buildPhases = (
+				B669FE6539F877EA8E6BF240 /* [CP] Check Pods Manifest.lock */,
 				554FB218208E7BC600935C7C /* Sources */,
 				554FB219208E7BC600935C7C /* Frameworks */,
 				554FB21A208E7BC600935C7C /* Resources */,
+				0AC4D41156CE6068E79D6D2A /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -91,7 +159,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
-				LastUpgradeCheck = 0920;
+				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = "Matt Mahoney";
 				TargetAttributes = {
 					554FB21B208E7BC600935C7C = {
@@ -131,12 +199,65 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		0AC4D41156CE6068E79D6D2A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Ski HQ/Pods-Ski HQ-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Ski HQ/Pods-Ski HQ-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B669FE6539F877EA8E6BF240 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Ski HQ-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		554FB218208E7BC600935C7C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				554FB238208E8F6F00935C7C /* MySkiJournalViewController.swift in Sources */,
+				55666F9D2096DAB200CA4391 /* WeatherViewController.swift in Sources */,
 				554FB222208E7BC600935C7C /* ViewController.swift in Sources */,
+				55D5C733208E9472000F7B98 /* EverythingElseViewController.swift in Sources */,
+				55D5C72F208E9408000F7B98 /* SkisViewController.swift in Sources */,
+				55666F95209642F400CA4391 /* MountainViewController.swift in Sources */,
+				55666F972096477A00CA4391 /* MoutainDetailViewController.swift in Sources */,
+				55D5C735208E9571000F7B98 /* MyPowderDaysViewController.swift in Sources */,
+				558A43E8208FD6D900B0AD13 /* SkiDetailViewController.swift in Sources */,
+				55D5C737208E958D000F7B98 /* FutureSkiTripsViewController.swift in Sources */,
+				554FB236208E87C700935C7C /* GearVC.swift in Sources */,
+				55EFD8222096ECA9003629CF /* MyPowderDaysDetailViewController.swift in Sources */,
+				55D5C731208E9459000F7B98 /* BootsViewController.swift in Sources */,
+				55666F9B2096830300CA4391 /* EverythingElseDetailViewController.swift in Sources */,
+				55666F992096751C00CA4391 /* BootsDetailViewController.swift in Sources */,
 				554FB220208E7BC600935C7C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -177,6 +298,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -184,6 +306,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -234,6 +357,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -241,6 +365,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -272,6 +397,7 @@
 		};
 		554FB22F208E7BC600935C7C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 45423DC979C27B352A9B2D3C /* Pods-Ski HQ.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -287,6 +413,7 @@
 		};
 		554FB230208E7BC600935C7C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 71B0822AF4677507A51F713B /* Pods-Ski HQ.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
